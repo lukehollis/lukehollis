@@ -1,4 +1,4 @@
-Hey, I'm an applied RL / 3d engineer working on simulations. I'm currently a research scientist at the MIT Media Lab cs sf lab. I code, teach, and create 3d captures. 
+Hey, I'm an applied RL / 3d engineer working on simulations. I'm currently a research scientist at the MIT Media Lab cs sf lab.
 
 [![map_geospatial_simulator](https://github.com/user-attachments/assets/f0d0cb09-a49e-4907-8a9b-f571fa30d6d5)](https://struct.inc/map/)
 
