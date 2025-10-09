@@ -10,4 +10,4 @@ I also migrated Unity's [ML-Agents](https://github.com/Unity-Technologies/ml-age
 
 <img width="993" height="736" alt="Screenshot 2025-10-08 at 18 26 37" src="https://github.com/user-attachments/assets/6121cc1e-3eac-4b41-9207-d412cce4771a" />
 
-Recently, I've been using RL+SSL for training autonomous agents in simulations to study causal inference across diverse domains. Email me if interested for more on this. 
+Recently, I've been using RL+SSL for training autonomous agents in simulations to study causal inference across diverse domains such as the [SF 20k Personas Dataset](https://github.com/lukehollis/sf_20k_personas/tree/main). Email me if interested for more on this. 
