@@ -7,7 +7,3 @@ For a recent project, try out [text-to-3d-simulation on a map](https://struct.in
 [![three_mlagents](https://github.com/user-attachments/assets/31539323-eeac-4199-9031-85b46bb2b6cc)](https://lukehollis.github.io/three-mlagents/)
 
 I also migrated Unity's [ML-Agents](https://github.com/Unity-Technologies/ml-agents) to [Three.js+Python](https://github.com/lukehollis/three-mlagents). These run PPO mostly using SB3 and train other various RL and SSL models in Python and Torch and then use Three.js as a visualization layer. 
-
-<img width="993" height="736" alt="Screenshot 2025-10-08 at 18 26 37" src="https://github.com/user-attachments/assets/6121cc1e-3eac-4b41-9207-d412cce4771a" />
-
-Recently, I've been using RL+SSL for training autonomous agents in simulations to study causal inference across diverse domains such as the [SF 20k Personas Dataset](https://github.com/lukehollis/sf_20k_personas/tree/main). Email me if interested for more on this. 
