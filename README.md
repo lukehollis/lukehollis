@@ -2,11 +2,7 @@ Hey, I'm an applied RL / 3d engineer working on simulations. I'm currently a res
 
 
 
-
-
-https://github.com/user-attachments/assets/f074ae0f-f7aa-4407-9bfa-f523c7c4359f
-
-
+https://github.com/user-attachments/assets/80506db1-1559-43cc-b2d8-51c39b32169b
 
 
 
