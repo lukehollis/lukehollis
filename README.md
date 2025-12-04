@@ -1,4 +1,4 @@
-I'm Luke, I work on autonomous systems and simulators. For a recent project, check out my work converting 3d gaussian splat captures into segmented scene graph with predictive physics properties for each object. 
+I'm Luke, I work on autonomous systems and simulators. For a recent project, check out my work [converting 3d gaussian splat captures into segmented scene graph](https://github.com/lukehollis/SplatGraph/) with predictive physics properties for each object. 
 
 
 https://github.com/user-attachments/assets/5ecd8ecc-94f2-49fb-a621-ab32ad2c6067
