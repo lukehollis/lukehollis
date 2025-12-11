@@ -4,11 +4,5 @@ For other recent experiments, try out [text-to-3d-simulation on a map](https://s
 
 See my website for more information and recent work [lukehollis.com](https://www.lukehollis.com/)
 
----
-
-*I would rather discover one causal law*
-*than be the King of Persia* - Democritus 
-
-
 
 
